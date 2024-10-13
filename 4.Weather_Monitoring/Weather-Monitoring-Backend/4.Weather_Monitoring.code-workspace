@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../Esp-32/4.Weather_Monitoring"
+		},
+		{
+			"name": "Weather-Monitoring-Backend",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
